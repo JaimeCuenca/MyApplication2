@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyApplication2</string>
+    <string name="botonV1">Boton Vertical 1</string>
+    <string name="botonV2">Boton vertical 3</string>
+    <string name="botonH1">Boton 1</string>
+    <string name="botonH2">Boton 3</string>
 </resources>
